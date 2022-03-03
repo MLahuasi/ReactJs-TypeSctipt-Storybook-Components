@@ -49,3 +49,6 @@ export const MyLabel = ( {
     </span>
   )
 }
+
+//Importante por compatibilidad
+export default MyLabel;

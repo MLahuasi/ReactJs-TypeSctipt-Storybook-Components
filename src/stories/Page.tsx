@@ -71,3 +71,7 @@ export const Page: React.VFC = () => {
     </article>
   );
 };
+
+
+//Importante por compatibilidad
+export default Page;
